@@ -1,0 +1,22 @@
+button {	
+	margin: 10px;
+	display: inline;
+}
+
+#show-form {
+	margin: 20px;
+}
+
+#add-show {
+	margin-left: 15px;
+}
+
+#display-gifs {
+	width: 100%;
+	display: inline;
+
+}
+.page-footer{
+  color:ghostwhite;
+  background: #5bc0de;
+}
